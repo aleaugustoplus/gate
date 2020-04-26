@@ -12,7 +12,7 @@ Android enabled device and MIFARE cards
 
 ## Programming interface Screenshots
 
-![screen image](images/gate.png)
+![screen image](images/gate.jpg)
 
 ### Installing
 
