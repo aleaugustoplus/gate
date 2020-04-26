@@ -10,9 +10,9 @@ The way it works is guests have invites that are NFC cards and the gatekeepers h
 
 Android enabled device and MIFARE cards
 
-## Programming interface Screenshots
+## Screenshots
 
-![screen image](images/gate.jpg)
+![screen image](images/gate.jpg =150x50)
 
 ### Installing
 
