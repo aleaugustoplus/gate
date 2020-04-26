@@ -12,7 +12,7 @@ Android enabled device and MIFARE cards
 
 ## Screenshots
 
-![screen image](images/gate.jpg)<!-- .element height="50%" width="50%" -->
+![screen image](images/gate.jpg){:height="50%" width="50%"}
 
 ### Installing
 
